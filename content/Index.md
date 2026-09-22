@@ -1,5 +1,5 @@
 ---
-title: The TUD starterkit for open publishing with JupyterBook
+title: BTOI JB test Sjors
 site:
   hide_outline: true
   hide_toc: true
